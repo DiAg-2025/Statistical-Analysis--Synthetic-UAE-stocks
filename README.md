@@ -15,3 +15,4 @@ Objective:
 ![Stats](https://img.shields.io/badge/Statistical_features-Scatterplot,_Linear_approximation,_Covariance,_Mean,_Standard_deviation,_Chebyshev's_inequality-brown)
 
 [Python_Analysis](https://github.com/DiAg-2025/Statistical-Analysis--Synthetic-UAE-stocks/blob/main/Analysis.py)
+1. 
