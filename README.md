@@ -1,6 +1,7 @@
 # Synthetic UAE Stocks
 
 [Dataset](https://github.com/DiAg-2025/Statistical-Analysis--Synthetic-UAE-stocks/blob/main/Synthetic_UAE_Stock_Data.csv)
+
 This is synthetically generated data from Open AI that contains price data of a few UAE Stocks: EMIRATESNBD, DIB, EMAAR, CBD, MASQ, and DEWA. This comprehensive dataset spans from July 1, 2021, to March 30, 2025. The prices are denominated in AED and are indexed.
 
 Objective:
@@ -12,3 +13,5 @@ Objective:
 ![Python](https://img.shields.io/badge/Py_libraries-Pandas,_Numpy,_Matplotlib-blue)
 
 ![Stats](https://img.shields.io/badge/Statistical_features-Scatterplot,_Linear_approximation,_Covariance,_Mean,_Standard_deviation,_Chebyshev's_inequality-brown)
+
+[Python_Analysis](https://github.com/DiAg-2025/Statistical-Analysis--Synthetic-UAE-stocks/blob/main/Analysis.py)
