@@ -8,4 +8,4 @@ Objective:
 3. Calculate the mean and standard deviation for the three chosen numerical variables. Afterward, provide an interpretation of the results to better understand the characteristics of these variables.
 4. Formulate a statement to find a suitable bound (both an upper bound and a lower bound) by applying Chebyshev's inequality. Subsequently, give an interpretation of this result to understand the significance of the bound in terms of the variable's behavior and variability.
 
-![Python](https://img.shields.io/badge/Py_libraries-Pandas,_Numpy,_Matplotlib-orange)
+![Python](https://img.shields.io/badge/Py_libraries-Pandas,_Numpy,_Matplotlib-blue)
