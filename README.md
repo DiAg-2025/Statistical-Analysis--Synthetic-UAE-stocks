@@ -11,4 +11,4 @@ Objective:
 
 ![Python](https://img.shields.io/badge/Py_libraries-Pandas,_Numpy,_Matplotlib-blue)
 
-![Stats](https://img.shields.io/badge/Statistical_features-Scatterplot,_Linear_approximation,_Covariance,_Mean,_Standard_deviation,_Chebyshev's_inequality-grey)
+![Stats](https://img.shields.io/badge/Statistical_features-Scatterplot,_Linear_approximation,_Covariance,_Mean,_Standard_deviation,_Chebyshev's_inequality-brown)
