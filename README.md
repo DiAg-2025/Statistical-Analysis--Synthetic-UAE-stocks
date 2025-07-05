@@ -2,7 +2,7 @@
 
 [Dataset](https://github.com/DiAg-2025/Statistical-Analysis--Synthetic-UAE-stocks/blob/main/Synthetic_UAE_Stock_Data.csv)
 
-This is synthetically generated data from Open AI that contains price data of a few UAE Stocks: EMIRATESNBD, DIB, EMAAR, CBD, MASQ, and DEWA. This comprehensive dataset spans from July 1, 2021, to March 30, 2025. The prices are denominated in AED and are indexed.
+Introduction: This is synthetically generated data from Open AI that contains price data of a few UAE Stocks: EMIRATESNBD, DIB, EMAAR, CBD, MASQ, and DEWA. This comprehensive dataset spans from July 1, 2021, to March 30, 2025. The prices are denominated in AED and are indexed.
 
 Objective:
 1. Select three numerical variables, such as X1, X2, and X3, from the dataset. Create scatterplots to visualize the relationships between these variable pairs. For instance, generate scatterplots for X1 vs. X2, X2 vs. X3, and so on. Additionally, provide insights regarding the observed relationships between these variable pairs based on the scatterplot visualizations.
