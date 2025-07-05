@@ -12,7 +12,7 @@ Objective:
 
 ![Python](https://img.shields.io/badge/Py_libraries-Pandas,_Numpy,_Matplotlib-blue)
 
-![Stats](https://img.shields.io/badge/Statistical_features-Scatterplot,_Linear_approximation,_Covariance,_Mean,_Standard_deviation,_Chebyshev's_inequality-yellow)
+![Stats](https://img.shields.io/badge/Statistical_features-Scatterplot,_Linear_approximation,_Covariance,_Mean,_Standard_deviation,_Chebyshev's_inequality-magenta)
 
 [Analysis](https://github.com/DiAg-2025/Statistical-Analysis--Synthetic-UAE-stocks/blob/main/JupyterAnalysis.ipynb)
 
